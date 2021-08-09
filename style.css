@@ -1,0 +1,32 @@
+
+html {
+font-family: sans-serif;
+}
+
+body {
+width: 50%;
+max-width: 800px;
+min-width: 480px;
+margin: 0 auto;
+background: url(gbg.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.h1{
+    font-weight: bold;
+    font-size: 9vh;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20vh;
+    margin-bottom: 10vh;
+}
+.form{
+    justify-content: center;
+    
+}
+.texti{
+    width: 60vh;
+    height: 8vh;
+    border-radius: 10px;
+}
